@@ -1,0 +1,5 @@
+# Core dependencies
+Pillow>=8.0.0  # For image handling
+numpy>=1.19.0  # For numerical operations
+matplotlib>=3.3.0  # For plotting and visualization
+tkinter  # For GUI components 
