@@ -52,7 +52,8 @@ The application:
 The exported depth images are saved in their original TIFF format, preserving the original precision and quality.
 
 ## Sample Data
-Sample data can be loaded using the "Load Images Folder" button to test the application's functionality.
+
+Sample data is available in the `Test` folder. This data can be used to test the application's functionality and ensure that it is working as expected. The sample data includes paired RGB and depth images with matching timestamps, organized in the correct directory structure for easy loading and processing.
 
 ## Notes
 - Ensure that the RGB and depth images are named with matching timestamps for proper pairing.
