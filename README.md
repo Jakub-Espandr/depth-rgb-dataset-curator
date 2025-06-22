@@ -11,15 +11,20 @@ The Depth-RGB Dataset Curator is a tool designed to facilitate the management an
 - Tkinter
 
 ## Quick Start
+
 ```bash
 # Clone the repository
 git clone https://github.com/Jakub-Espandr/DepthRGBCurator.git
+
 # Move to the directory
-cd depth-rgb-dataset-curator
+cd DepthRGBCurator
+
 # Install dependencies
 pip install -r requirements.txt
+
 # Run the application
 python curator.py
+
 ```
 
 ## Usage
