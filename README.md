@@ -13,7 +13,7 @@ The Depth-RGB Dataset Curator is a tool designed to facilitate the management an
 ## Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/Jakub-Espandr/depth-rgb-dataset-curator.git
+git clone https://github.com/Jakub-Espandr/DepthRGBCurator.git
 # Move to the directory
 cd depth-rgb-dataset-curator
 # Install dependencies
@@ -68,4 +68,7 @@ This app allows for capturing full-resolution, 32-bit floating-point depth maps 
 Ensure that both RGB and depth images are stored in the same directory with matching timestamps for proper pairing. When sharing data, include the entire output folder containing both image types to maintain the correct structure.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the **Non-Commercial Public License (NCPL v1.0)**  
+© 2025 Jakub Ešpandr - Born4Flight, FlyCamCzech
+
+See the [LICENSE](https://github.com/Jakub-Espandr/DepthRGBCurator/raw/main/LICENSE) file for full terms.
